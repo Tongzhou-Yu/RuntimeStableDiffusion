@@ -5,4 +5,4 @@
    On Windows for example, modify `webui-user.bat` and edit the line containing `COMMANDLINE_ARGS` to:  
 `set COMMANDLINE_ARGS=--api --api-log`  
 4. Execute the execution script, i.e `webui-user.bat` on Windows.
-5. Confirm that Stable Diffusion Web UI is running, for example by visiting http://127.0.0.1:7860/.
+5. Confirm that Stable Diffusion Web UI is running, for example by visiting http://127.0.0.1:7860.
