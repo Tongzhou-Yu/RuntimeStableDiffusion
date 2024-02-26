@@ -1,4 +1,4 @@
-##Initial Setup
+## Initial Setup
 1. Ensure that your hardware meets the requirements as specified in the documentation of Stable Diffusion Web UI  
 2. Get Stable Diffusion Web UI locally, either by doing git clone or downloading the latest version directly from the Releases page.
 3. Modify the execution script to enable API calls.
